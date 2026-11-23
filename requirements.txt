@@ -1,0 +1,5 @@
+google-adk
+google-cloud-aiplatform[agent_engines,adk]
+python-dotenv
+chainlit==2.11.1
+opentelemetry-exporter-otlp-proto-grpc
